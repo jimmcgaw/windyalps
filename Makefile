@@ -1,0 +1,2 @@
+css:
+	npx @tailwindcss/cli -i ./src/styles.css -o ./dist/styles.css --watch
